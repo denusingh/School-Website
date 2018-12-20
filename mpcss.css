@@ -1,0 +1,137 @@
+*
+{
+	margin:0px;
+	padding:0px;
+
+}
+body
+{
+	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	margin:0px;
+	padding:0px;
+}
+#wrapper
+{
+	width:99.8%;
+	margin:auto;
+	background-color:#1c2b4b;
+	border:1px solid #1c2b4b;
+	overflow:hidden;
+}
+#innerwrap
+{
+	width:auto;
+	padding-top:15px;
+	padding-bottom:15px;
+	margin:auto;
+	color:#fff;
+	float:left;
+	line-height:50px;
+}
+#innerwrap h1
+{
+	float:left;
+	padding-left:70px;
+}
+#innerwrap ul
+{
+	padding-left:180px;
+	list-style-type:none;
+	float:left;
+}
+#innerwrap ul li
+{
+	float:left;
+	width:100px;
+	text-align:center;
+}
+#innerwrap ul li a
+{
+	text-decoration:none;
+	color:#fff;	
+}
+#innerwrap ul li a:hover
+{
+	border:8px solid #069;
+	background-color:#069;
+	border-radius:20px;
+}
+#newrap
+{
+	clear:both;
+	background-color:#C03;
+	width:100%;
+	height:550px;
+	background-image:url(open_book-wallpaper-1366x768.jpg);
+	
+}
+#content h2
+{
+	text-align:center;
+	padding-top:220px;
+	color:#1c2b4b;
+}
+#content h1
+{
+	text-align:center;
+	color:#1c2b4b;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:46px;
+	padding-top:15px;
+}
+#lowcont
+{
+	width:auto;
+	height:auto;
+}
+#content1
+{
+	text-align:center;
+	margin:30px;
+	padding:10px;
+	width:350px;
+	height:200px;
+	background:#069;
+	float:left;
+	color:#FFF;
+	overflow:hidden;
+}
+#abot
+{
+	background-image:url(Free-Images-Book-Wallpapers-HD.jpg);
+}
+#abot h2
+{
+	text-align:center;
+	padding-top:20px;
+	color:#400040;
+}
+#abot p
+{
+	text-align:justify;
+	margin-left:80px;
+	margin-right:80px;
+	padding-bottom:20px;
+	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	
+}
+#foter
+{
+	padding:40px;
+	background-color:#606;
+	color:#fff;
+
+}
+#foter h1
+{
+	float:left;
+}
+#foter p
+{
+	padding-left:800px;
+}
+#last
+{
+	text-align:center ;
+	background-color:#303;
+}
